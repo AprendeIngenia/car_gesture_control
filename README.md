@@ -12,7 +12,7 @@ Aprenderás sobre:
 - El uso de la biblioteca mediapipe para detectar y clasificar gestos de mano.
 - La implementación de una interfaz de comunicación serial y cable USB entre la computadora y el robot.
  
-![3D](https://github.com/AprendeIngenia/car_gesture_control/assets/85022752/76caf810-d4f3-465a-84d1-5ca2f5c59c8d)
+![3D](https://github.com/AprendeIngenia/car_gesture_control/assets/85022752/6b1fa3fe-2245-483a-9c4c-c71d1cd12243)
 
 ### Este proyecto es ideal para:
 
