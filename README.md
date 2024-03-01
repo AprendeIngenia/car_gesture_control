@@ -1,7 +1,7 @@
 # car_gesture_control
 Hola chicos en este repositorio encontraran la programación y los comandos completos para ejecutar su propio sistema de control con gestos de manos.
 ### Conceptos introductorios:
-- Para iniciar recomendamos ver algunos conceptos introductorios con el fin de entender un poco mejor todo el funcionamiento, por eso te dejamos la explicacion en este [video.](https://youtu.be/I5o9y-ZwLQg](https://youtu.be/SwyCJ9jCMXU))
+- Para iniciar recomendamos ver algunos conceptos introductorios con el fin de entender un poco mejor todo el funcionamiento, por eso te dejamos la explicacion en este [video.](https://youtu.be/SwyCJ9jCMXU?si=HD4FMJLxdz4G98FH)
 
 ### Control de robot con gestos:
 Descubre cómo creamos un revolucionario sistema de control de robot que integra gestos de mano, mediapipe, comunicación serial y cable USB. En este video, te llevaremos detrás de cámaras para mostrarte cómo transformamos movimientos corporales en acciones de control de robot en tiempo real.
